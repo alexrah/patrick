@@ -382,7 +382,11 @@ body .body-innerwrapper {
   text-transform: uppercase;
   font-weight: 400;
   margin: 0;
+  text-align: center;
 }
+
+#sp-user-middle-wrapper p { text-align: center; }
+
 #sp-bottom-wrapper h3.bottom-h3 {
   font-size: 60px;
   line-height: 60px;

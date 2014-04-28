@@ -371,7 +371,7 @@ jQuery(function(){
 
 <form method="post" id="contact" class="foxform" action="#mid_212">
   <!-- mod_foxcontact 2.0.19 GNU/GPLv3 -->
-  <div class="foxfield">Per maggiori informazioni, compilate il modulo sottostante. Sarete ricontattati al piú presto.<br>Si prega di compilare <b>tutti i campi richiesti</b>.</div>
+  <div class="foxfield" style="text-align: center;">Per maggiori informazioni, compilate il modulo sottostante. Sarete ricontattati al piú presto.<br>Si prega di compilare <b>tutti i campi richiesti</b>.</div>
 
 <div class="foxfield"><input minlength="5" class="required error foxtext" type="text" placeholder="Nome Cognome" title="Inserire il Vostro Nome e Cognome" style="display: block; float: none; width: 85% !important; margin: 0px auto !important; " name="name" ></div>
 
