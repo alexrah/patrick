@@ -208,7 +208,7 @@ jQuery(function(){
       <div class="chromeframe alert alert-danger" style="text-align:center">You are using an <strong>outdated</strong> browser. Please <a target="_blank" href="http://browsehappy.com/">upgrade your browser</a> or <a target="_blank" href="http://www.google.com/chromeframe/?redirect=true">activate Google Chrome Frame</a> to improve your experience.</div>
       <![endif]-->
       <header id="sp-header-wrapper" class=" "><div class="container"><div class="row-fluid" id="header">
-<div id="sp-logo" class="span12"><div class="logo-wrapper"><div class="logo-text"><a href="#">Patrick's Roads</a></div>
+<div id="sp-logo" class="span12"><div class="logo-wrapper"><div class="logo-text"><a href="#">Erick's Roads</a></div>
       <div class="logo-slogan"> </div></div></div>
 </div></div></header><section id="sp-menu-wrapper" class=" "><div class="container"><div class="row-fluid" id="menu">
 <div id="sp-menu" class="span12">	
@@ -231,7 +231,7 @@ jQuery(function(){
                         </div>
 
                         <div class="slider-text hidden-phone">
-                            Praesent et turpis sed arcu feugiat imperdiet. Ut gravida elementum tortor. Integer tempor metus vel orci feugiat vel pulvinar purus imperdiet. Nulla gravida cursus est ut scelerisque. Sed fermentum tortor nisi, a tincidunt eros. Maecenas sollicitudin lectus nec leo commodo pharetra. Fusce aliquet luctus augue, quis ultrices magna ultrices in. Integer laoreet scelerisque eleifend. Aenean pellentesque volutpat augue, nec tempor lorem consectetur non.                        </div>
+                           Praesent et turpis sed arcu feugiat imperdiet. Ut gravida elementum tortor. Integer tempor metus vel orci feugiat vel pulvinar purus imperdiet. Nulla gravida cursus est ut scelerisque. Sed fermentum tortor nisi, a tincidunt eros. Maecenas sollicitudin lectus nec leo commodo pharetra. Fusce aliquet luctus augue, quis ultrices magna ultrices in. Integer laoreet scelerisque eleifend. Aenean pellentesque volutpat augue, nec tempor lorem consectetur non.                        </div>
 
                                                     <div class="slider-button">
                             </div>
@@ -280,80 +280,87 @@ jQuery(function(){
     </ul></ul></div>
 </div>
 </div>
-</div></div></section><section id="sp-main-body-wrapper" class=" "><div class="container"><div class="row-fluid" id="main-body">
-<div id="sp-message-area" class="span12">
-<div id="system-message-container">
-<div id="system-message">
-</div>
-</div><section id="sp-component-area-wrapper" class=" "><div class="row-fluid" id="component-area">
-<div id="sp-component-area" class="span12"><section id="sp-component-wrapper"><div id="sp-component">
-<article class="item-page post-43 post hentry status-publish category-demo ">
+</div></div></section>
+<!-- <section id="sp-main-body-wrapper" class=" "><div class="container"><div class="row-fluid" id="main-body"> -->
+<!-- <div id="sp-message-area" class="span12"> -->
+<!-- <div id="system-message-container"> -->
+<!-- <div id="system-message"> -->
+<!-- </div> -->
+<!-- </div><section id="sp-component-area-wrapper" class=" "><div class="row-fluid" id="component-area"> -->
+<!-- <div id="sp-component-area" class="span12"><section id="sp-component-wrapper"><div id="sp-component"> -->
+<!-- <article class="item-page post-43 post hentry status-publish category-demo "> -->
+<!--  -->
+<!--  -->
+<!--  -->
+<!--  -->
+<!--  -->
+<!--  -->
+<!--   <section class="entry-content">  -->
+<!--                                           <div class="service-grid"> -->
+<!-- <div class="row-fluid "> -->
+<!-- <div class="span4"> -->
+<!-- <div class="media services"> -->
+<!-- <div class="pull-left"><img src="./Home_files/home.png" alt="" border="0"></div> -->
+<!-- <div class="media-body"> -->
+<!-- <h3><a href="#">Slogan Titolo Primo</a></h3> -->
+<!-- <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium error sit voluptatem accusantium</p> -->
+<!-- </div> -->
+<!-- </div> -->
+<!-- </div> -->
+<!-- <div class="span4"> -->
+<!-- <div class="media services"> -->
+<!-- <div class="pull-left"><img src="./Home_files/stop.png" alt="" border="0"></div> -->
+<!-- <div class="media-body"> -->
+<!-- <h3><a href="#">Slogan Titolo Secondo</a></h3> -->
+<!-- <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium error sit voluptatem accusantium</p> -->
+<!-- </div> -->
+<!-- </div> -->
+<!-- </div> -->
+<!-- <div class="span4"> -->
+<!-- <div class="media services"> -->
+<!-- <div class="pull-left"><img src="./Home_files/bubble.png" alt="" border="0"></div> -->
+<!-- <div class="media-body"> -->
+<!-- <h3><a href="#">Slogan Titolo Terzo</a></h3> -->
+<!-- <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium error sit voluptatem accusantium</p> -->
+<!-- </div> -->
+<!-- </div> -->
+<!-- </div> -->
+<!-- </div> -->
+<!-- </div> 								 -->
 
 
 
 
 
+<!--  -->
+<!--  -->
+<!--  -->
+<!-- </section></article></div></section></div> -->
+<!-- </div></section></div> -->
+<!-- </div></div></section> -->
 
-  <section class="entry-content"> 
-                                          <div class="service-grid">
-<div class="row-fluid ">
-<div class="span4">
-<div class="media services">
-<div class="pull-left"><img src="./Home_files/home.png" alt="" border="0"></div>
-<div class="media-body">
-<h3><a href="#">Slogan Titolo Primo</a></h3>
-<p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium error sit voluptatem accusantium</p>
-</div>
-</div>
-</div>
-<div class="span4">
-<div class="media services">
-<div class="pull-left"><img src="./Home_files/stop.png" alt="" border="0"></div>
-<div class="media-body">
-<h3><a href="#">Slogan Titolo Secondo</a></h3>
-<p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium error sit voluptatem accusantium</p>
-</div>
-</div>
-</div>
-<div class="span4">
-<div class="media services">
-<div class="pull-left"><img src="./Home_files/bubble.png" alt="" border="0"></div>
-<div class="media-body">
-<h3><a href="#">Slogan Titolo Terzo</a></h3>
-<p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium error sit voluptatem accusantium</p>
-</div>
-</div>
-</div>
-</div>
-</div> 								
+<section id="sp-user-middle-wrapper" class=" "><div class="container"><div class="row-fluid" id="user-middle">
 
-
-
-
-
-
-
-
-</section></article></div></section></div>
-</div></section></div>
-</div></div></section><section id="sp-user-middle-wrapper" class=" "><div class="container"><div class="row-fluid" id="user-middle">
-<div id="sp-user-middle" class="span12">
-
-<div class="custom clearfix">
-  <div class="pull-left"><img src="./Home_files/clients.png" alt="" border="0"></div>
-<div>
-<h3><a href="#">I Nostri Clienti</a></h3>
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium error sit voluptatem accusantium</div></div>
-</div>
-</div></div></section><section id="sp-bottom-wrapper" class=" "><div class="container"><div class="row-fluid" id="bottom">
-<div id="sp-bottom" class="span12">
-
-<div class="custom clearfix">
   <div class="row-fluid "><div class="span6"><p></p>
 <h3>Domande? Informazioni?</h3>
-<p>perspiciatis unde omnis iste natus error </p></div><div class="span6"><p></p>
-<h3 class="bottom-h3">+1 234 567 8888</h3>
-<p></p></div></div></div>
+<p>Potete raggiungerci al seguente numero di telefono: </p></div><div class="span6"><p></p>
+<h3 class="bottom-h3">+39 389 910 5074</h3>
+<p></p></div></div>
+
+
+<!-- <div id="sp-user-middle" class="span12"> -->
+<!--  -->
+<!-- <div class="custom clearfix"> -->
+<!--   <div class="pull-left"><img src="./Home_files/clients.png" alt="" border="0"></div> -->
+<!-- <div> -->
+<!-- <h3><a href="#">I Nostri Clienti</a></h3> -->
+<!-- Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium error sit voluptatem accusantium</div></div> -->
+<!-- </div> -->
+<!-- </div></div> -->
+</section>
+
+<section id="sp-bottom-wrapper" class=" "><div class="container"><div class="row-fluid" id="bottom">
+<div id="sp-bottom" class="span12">
 
 <a name="mid_212"></a>
 
