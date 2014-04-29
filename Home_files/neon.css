@@ -155,7 +155,7 @@ html[dir="rtl"] .fox-dropdown-container {
 }
 
 .outer_dropdown {
-	background:url("../../../media/com_foxcontact/images/dropdown-background.png") repeat-x;
+	background:url("../images/dropdown-background.png") repeat-x;
 	height:28px;
 	border-radius: 5px;
 	display:none;
@@ -173,9 +173,9 @@ html[dir="rtl"] .fox-dropdown-container {
 	display: table-cell;
 	vertical-align: middle;
 	width: 100% !important;
-	/* Depends on current language
-	background-image: url("../../../media/com_foxcontact/images/dropdown-arrow.png");
-	background-position: right 0; */
+	/* Depends on current language */
+	background-image: url("../images/dropdown-arrow-right.png");
+	background-position: right 0; 
 
 	background-repeat: no-repeat;
 	background-attachment: scroll;

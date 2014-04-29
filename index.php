@@ -15,8 +15,6 @@
   <link rel="stylesheet" href="./Home_files/bootstrap.min.css" type="text/css">
   <link rel="stylesheet" href="./Home_files/bootstrap-responsive.min.css" type="text/css">
   <link rel="stylesheet" href="./Home_files/font-awesome.css" type="text/css">
-  <link rel="stylesheet" href="./Home_files/css" type="text/css">
-  <link rel="stylesheet" href="./Home_files/css(1)" type="text/css">
   <link rel="stylesheet" href="./Home_files/mobile-menu.css" type="text/css">
   <link rel="stylesheet" href="./Home_files/template.css" type="text/css">
   <link rel="stylesheet" href="./Home_files/preset1.css" type="text/css">
@@ -120,7 +118,7 @@ h1,h2,h3,h4,h5,h6{font-family:'Roboto'; -webkit-font-smoothing: subpixel-antiali
   <script src="./Home_files/helix.core.js" type="text/javascript"></script>
   <script src="./Home_files/menu.js" type="text/javascript"></script>
   <script src="./Home_files/mootools-more.js" type="text/javascript"></script>
-  <script src="./Home_files/index.php" type="text/javascript"></script>
+  <!-- <script src="./Home_files/index.php" type="text/javascript"></script> -->
   <script src="./Home_files/fileuploader.js" type="text/javascript"></script>
   <script src="./Home_files/minima.slider.js" type="text/javascript"></script>
 <script type="text/javascript">
@@ -377,11 +375,11 @@ jQuery(function(){
 
 <div class="foxfield"><input class="required error email foxtext" type="text" placeholder="Email" title="Inserire la Vostra Email" style="width:85% !important;display:block;float:none;margin:0 auto !important;" name="email" ></div>
 
-<div class="foxfield"><input class="foxtext" type="text" value="Numero Telefonico" title="Numero Telefonico" style="width:85% !important;display:block;float:none;margin:0 auto !important;" name="_e4fc510cd2356f0bd3092a4e2ce8ac98" onfocus="if(this.value==this.title) this.value=&#39;&#39;;" onblur="if(this.value==&#39;&#39;) this.value=this.title;"></div>
+<div class="foxfield"><input class="foxtext" type="text" value="" title="Numero Telefonico" style="width:85% !important;display:block;float:none;margin:0 auto !important;" name="phone" onfocus="if(this.value==this.title) this.value=&#39;&#39;;" onblur="if(this.value==&#39;&#39;) this.value=this.title;" placeholder="Numero Telefonico"></div>
 
-<div class="foxfield"><div class="fox-dropdown-container" style="width:87%;display:block;float:none;margin:0 auto !important;"><select class="fox_dropdown foxtext" name="_e9b164a9de6d22d164150e02d39e8930" style="width: 100% !important; opacity: 0; position: absolute; height: 28px;" onchange="DropdownAlignValue(this)"><option value="">Come siete venuti a conoscenza dei nostri servizi</option><option value=""></option><option value="Amici">Amici</option><option value="Clienti">Clienti</option><option value="Internet">Internet</option><option value=" Altro"> Altro</option></select><span class="outer_dropdown defaultfoxfield" style="display: table;"><span class="inner_dropdown" style="background-image:url(/four/media/com_foxcontact/images/dropdown-arrow-right.png);background-position:right 0;" id="ddi_e9b164a9de6d22d164150e02d39e8930">Come siete venuti a conoscenza dei nostri servizi</span></span></div>
+<div class="foxfield"><div class="fox-dropdown-container" style="width:87%;display:block;float:none;margin:0 auto !important;"><select class="fox_dropdown foxtext" name="riferimento" style="width: 100% !important; opacity: 0; position: absolute; height: 28px;" onchange="DropdownAlignValue(this)"><option value="">Come siete venuti a conoscenza dei nostri servizi</option><option value=""></option><option value="Amici">Amici</option><option value="Clienti">Clienti</option><option value="Internet">Internet</option><option value=" Altro"> Altro</option></select><span class="outer_dropdown defaultfoxfield" style="display: table;"><span class="inner_dropdown" style="background-image:url(images/dropdown-arrow-right.png);background-position:right 0;" id="ddi_e9b164a9de6d22d164150e02d39e8930">Come siete venuti a conoscenza dei nostri servizi</span></span></div>
 &nbsp;</div>
-<div class="foxfield"><textarea rows="" cols="" class="foxtext" name="_4929b26507ba019313c9a6c1467aa6be" title="Descrivi la tua richiesta" style="width:86% !important;height:180px !important;display:block;float:none;margin:0 auto !important;" onfocus="if(this.value==this.title) this.value=&#39;&#39;;" onblur="if(this.value==&#39;&#39;) this.value=this.title;">Descrivete la Vostra richiesta</textarea></div>
+<div class="foxfield"><textarea rows="" cols="" class="foxtext" name="message" title="Descrivi la tua richiesta" style="width:86% !important;height:180px !important;display:block;float:none;margin:0 auto !important;" onfocus="if(this.value==this.title) this.value=&#39;&#39;;" onblur="if(this.value==&#39;&#39;) this.value=this.title;" placeholder="Descrivete la Vostra richiesta"></textarea></div>
 <div class="foxfield">
 <input type="checkbox" class="foxcheckbox required" value="Sì" name="_b528631c8a12e5d4b35a255279f48ff7" id="c_b528631c8a12e5d4b35a255279f48ff7" style="display: none;">
 <span id="s_b528631c8a12e5d4b35a255279f48ff7" onclick="ChangeCheckboxState(&#39;_b528631c8a12e5d4b35a255279f48ff7&#39;);" style="background-position: left 50%;" class="fox_cbspan fox_cbspan_false">Accetto termini e condizioni del servizio</span>
@@ -398,9 +396,12 @@ Invia</span>
 
 </div>
 </div></div></section><footer id="sp-footer-wrapper" class=" "><div class="container"><div class="row-fluid" id="footer">
-<div id="sp-footer1" class="span7"><span class="copyright">Copyright ©  2014 Teddynet.net. All Rights Reserved.</span><span class="designed-by">Designed by  <a href="http://www.teddynet.net/" target="_blank">Teddynet.net</a> </span> <span class="powered-by">Powered by <a target="_blank" title="Joomla" href="http://www.joomla.org/">Joomla!</a></span> </div>
+<div id="sp-footer1" class="span7">
+<span class="copyright">Partita IVA: 01672730098</span>
+<span class="copyright">Copyright ©  2014 Teddynet.net. All Rights Reserved.</span>
+<span class="designed-by">Designed by  <a href="http://www.teddynet.net/" target="_blank">Teddynet.net</a> </span> <span class="powered-by">Powered by <a target="_blank" title="Joomla" href="http://www.joomla.org/">Joomla!</a></span> </div>
 
-<div id="sp-footer2" class="span5"><a class="sp-totop" href="javascript:;" title="Goto Top" rel="nofollow"><small>Goto Top </small><i class="icon-angle-up"></i></a></div>
+<div id="sp-footer2" class="span5"><a class="sp-totop" href="javascript:;" title="Goto Top" rel="nofollow"><small>Goto Top </small></a></div>
 </div></div></footer>	
 
 
