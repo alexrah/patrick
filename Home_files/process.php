@@ -9,5 +9,5 @@ $message = strip_tags($_POST['message']);
 // Send Message
 mail( "alexrah@gmail.com", "Richiesta informazioni da ericroads.com",
 "Name: $name\nEmail: $email\nPhone: $phone\nRiferimento: $url\nMessage: $message\n",
-"From: ericroads.com <alexrah@gmail.com>" );
+"From: ericroads.com <jaenspea@ericroads.com>" );
 ?>
